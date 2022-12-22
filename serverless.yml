@@ -1,0 +1,10 @@
+service: tdc-future-2022-nodejs-aws-lambda
+provider:
+  name: aws
+  runtime: nodejs18.x
+functions:
+  app:
+    handler: dist/app.handler
+    events:
+      - http: ANY /
+      - http: ANY /{proxy+}
