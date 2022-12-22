@@ -5,7 +5,14 @@
   "homepage": "https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "api",
+    "aws",
+    "expressjs",
+    "lambda",
+    "nodejs",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda.git"
