@@ -11,6 +11,7 @@
     "expressjs",
     "lambda",
     "nodejs",
+    "serverless",
     "typescript"
   ],
   "repository": {
