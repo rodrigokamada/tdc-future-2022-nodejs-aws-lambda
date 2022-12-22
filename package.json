@@ -2,21 +2,21 @@
   "name": "tdc-future-2022-nodejs-aws-lambda",
   "version": "1.0.0",
   "description": "Repositório utilizado no evento TDC Future 2022 com o tema _Criando uma API serverless usando AWS Lambda e Node.js com TypeScript e Express.js_.",
-  "main": "index.js",
-  "scripts": {
-    "build": "rimraf dist && tsc"
-  },
+  "homepage": "https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda#readme",
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda/issues"
   },
-  "homepage": "https://github.com/rodrigokamada/tdc-future-2022-nodejs-aws-lambda#readme",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "serverless-http": "^3.1.0"
